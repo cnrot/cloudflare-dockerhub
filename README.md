@@ -107,9 +107,9 @@ location = "xxxx.xx.com"
 ### 变量说明
 | 变量名 | 示例 | 必填 | 备注 | 
 |--|--|--|--|
-| URL302 | https://t.me/CMLiussss |❌| 主页302跳转 |
-| URL | https://www.baidu.com/ |❌| 主页伪装(设为`nginx`则伪装为nginx默认页面) |
-| UA | netcraft |❌| 支持多元素, 元素之间使用空格或换行作间隔 |
+| URL302 | `https://t.me/CMLiussss` |❌| 主页302跳转 |
+| URL | `https://www.baidu.com/` |❌| 主页伪装(设为`nginx`则伪装为nginx默认页面) |
+| UA | `netcraft` |❌| 支持多元素, 元素之间使用空格或换行作间隔 |
 
 
 
